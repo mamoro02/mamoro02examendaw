@@ -1,6 +1,6 @@
 **EXPLICACIÓN**
 
-1. Descomprimir el archivo.
+1. Descomprimir el archivo o clonarlo.
 2. Colocar la carpeta descomprimida en Visual Studio (VS).
 3. Asegurarse de tener instalada la extensión de Docker.
 4. Hacer clic derecho en el archivo `docker-compose.yml` y seleccionar la opción "Compose up".
