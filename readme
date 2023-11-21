@@ -6,3 +6,5 @@ EXPLICACIÓN
 5. Ir a la aplicacion de Docker.
 6. Darle click sobre el puerto del contendedor web.
 7. Ver el index.php con las dos opciones
+
+NOTA: si al ver el index.php salta un error hay que esperar y recargar la página hasta que se cargen los datos de la base de datos
